@@ -257,7 +257,7 @@ namespace ns0
 					streamWriter.WriteLine();
 				}
 				streamWriter.WriteLine();
-				streamWriter.WriteLine("www.github.com");
+				streamWriter.WriteLine("www.github.com/brahbarh/Compute-Get-Hash-/");
 				streamWriter.Close();
 			}
 		}
@@ -923,7 +923,7 @@ namespace ns0
             this.linkLabel1.Size = new System.Drawing.Size(97, 13);
             this.linkLabel1.TabIndex = 9;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "www.github.com";
+            this.linkLabel1.Text = "www.github.com/brahbarh/Compute-Get-Hash-/";
             this.linkLabel1.VisitedLinkColor = System.Drawing.Color.SkyBlue;
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
