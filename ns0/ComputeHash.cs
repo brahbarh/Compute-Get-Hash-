@@ -978,7 +978,7 @@ namespace ns0
 
 		private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 		{
-			Process.Start("http://www.subisoft.net");
+			Process.Start("https://github.com/brahbarh/Compute-Get-Hash-/");
 		}
 
 		
