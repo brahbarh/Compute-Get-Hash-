@@ -908,6 +908,7 @@ namespace ns0
             this.lblProgress.Name = "lblProgress";
             this.lblProgress.Size = new System.Drawing.Size(212, 13);
             this.lblProgress.TabIndex = 34;
+	    
             // 
             // linkLabel1
             // 
