@@ -4,6 +4,7 @@ using System.Globalization;
 using System.Resources;
 
 namespace ns1
+	
 {
 	internal sealed class Class1
 	{
