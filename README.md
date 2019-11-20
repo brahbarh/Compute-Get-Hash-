@@ -8,3 +8,7 @@ The purpose of hash values is to provide a cryptographically-secure way to verif
 <p align="center">
   <img src="https://i.imgur.com/L1oAb6F.jpg" width="350"/>
 </p>
+
+
+مدونة تطبيقات الاندرويد تهتم بشروحات الاندرويد ولحماية هاتفك الاندرويد
+<a href="https://samihandroid.blogspot.com/">https://samihandroid.blogspot.com/</a>
